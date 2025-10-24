@@ -61,6 +61,6 @@
 
 ### 💕 Thanks for visiting! 💕
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Azzaw/count.svg)
 
 </div>
