@@ -2,7 +2,7 @@
 
 #  Hi, I'm Azza! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Happy+Coding!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96" alt="Typing SVG" />
 
 </div>
 
