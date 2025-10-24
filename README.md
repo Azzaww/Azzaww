@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Azza! 
+# 💖 Hi, I'm Azza! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 
@@ -35,12 +35,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Popular Repositories
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azzaww&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azzaw&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF)](https://github.com/Azzaww/portofolio)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF)](https://github.com/Azzaww/Peminjaman-Alat-&-Bahan)
 
 </div>
 
@@ -60,5 +60,6 @@
 <div align="center">
 
 ### 💕 Thanks for visiting! 💕
+
 
 </div>
