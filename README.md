@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💖 Hi, I'm Azza! 
+#  Hi, I'm Azza! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 
@@ -8,16 +8,16 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
-- 💻 Passionate Developer
-- 🌱 Always Learning New Things
-- 💕 Love Coding & Design
-- 📍 Malang, Indonesia
+-  Passionate Developer
+-  Always Learning New Things
+-  Love Coding & Design
+-  Malang, Indonesia
 
 ---
 
-## 💖 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -35,18 +35,7 @@
 
 ---
 
-## 🌟 Popular Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF)](https://github.com/Azzaww/portofolio)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF)](https://github.com/Azzaww/Peminjaman-Alat-&-Bahan)
-
-</div>
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
@@ -59,7 +48,7 @@
 
 <div align="center">
 
-### 💕 Thanks for visiting! 💕
+###  Thanks for visiting! 
 
 
 </div>
