@@ -2,7 +2,7 @@
 
 #  Hi, I'm Azza! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Happy+Coding!+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Happy+Coding!" alt="Typing SVG" />
 
 </div>
 
@@ -39,8 +39,8 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azzaww&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azzaw&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -60,7 +60,5 @@
 <div align="center">
 
 ### 💕 Thanks for visiting! 💕
-
-![Visitor Count](https://profile-counter.glitch.me/Azzaw/count.svg)
 
 </div>
